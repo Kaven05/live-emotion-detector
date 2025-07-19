@@ -70,7 +70,7 @@ Ensure these two files are in the same folder as your script:
 Use the following command to launch the emotion detection app:
 
 ```bash
-python emotion_detector.py
+python main.py
 ```
 
 Press `q` to quit the webcam window.
