@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # 🎭 Live Emotion Detector using Deep Learning
 
 A real-time facial emotion detection system using OpenCV and a pre-trained CNN model. This project uses your webcam to detect faces and classify facial expressions into one of seven emotions using deep learning.
